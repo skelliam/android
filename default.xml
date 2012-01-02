@@ -265,6 +265,8 @@
   <project path="packages/apps/Usb" name="MotoMagic/android_packages_apps_Usb" remote="github" revision="ics" />
   <project path="device/motorola/common" name= "MotoMagic/android_device_moto_hijack" />
   <project path="external/DroidSSHd" name="tpruvot/android_external_droidsshd" />
+  <project path="packages/apps/Torch" name="CyanogenMod/android_packages_apps_Torch" revision="gingerbread" />
+  <project path="packages/apps/FileManager" name="CyanogenMod/android_packages_apps_FileManager" revision="gingerbread" />
 
   <project path="android" name="CyanogenMod/android" />
 
