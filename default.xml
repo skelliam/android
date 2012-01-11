@@ -191,7 +191,7 @@
   <project path="hardware/ril" name="Quarx2k/android_hardware_ril" remote="github" revision="ics" />
   <project path="hardware/ti/omap3" name="Quarx2k/android_hardware_ti_omap3-compat" remote="github" revision="ics" />
   <project path="hardware/ti/omap4xxx" name="platform/hardware/ti/omap4xxx" remote="aosp" revision="refs/tags/android-4.0.3_r1" />
-  <project path="hardware/ti/wlan" name="CyanogenDefy/android_hardware_ti_wlan" />
+  <project path="hardware/ti/wlan" name="Quarx2k/android_hardware_ti_wlan" />
   <project path="libcore" name="CyanogenMod/android_libcore" />
   <project path="ndk" name="CyanogenMod/android_ndk" />
   <project path="packages/apps/BasicSmsReceiver" name="platform/packages/apps/BasicSmsReceiver" remote="aosp" revision="refs/tags/android-4.0.3_r1" />
@@ -260,7 +260,7 @@
   <project path="system/core" name="tpruvot/android_system_core" />
   <project path="system/extras" name="CyanogenMod/android_system_extras" />
   <project path="system/media" name="CyanogenMod/android_system_media" />
-  <project path="system/netd" name="CyanogenMod/android_system_netd" />
+  <project path="system/netd" name="Quarx2k/android_system_netd" />
   <project path="system/su" name="CyanogenMod/android_system_su" />
   <project path="system/vold" name="CyanogenMod/android_system_vold" />
 
