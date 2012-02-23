@@ -76,7 +76,7 @@
   <project path="device/motorola/droid2" name="CyanogenMod/android_device_motorola_droid2" />
   <project path="device/motorola/droid2we" name="CyanogenMod/android_device_motorola_droid2we" />
   <project path="device/motorola/jordan" name="Quarx2k/android_device_motorola_jordan" />
-  <project path="device/motorola/jordan_plus" name="Quarx2k/android_device_motorola_jordan_plus" revision="gingerbread" />
+  <project path="device/motorola/jordan_plus" name="Quarx2k/android_device_motorola_jordan" revision="gingerbread-MB526" />
   <project path="device/motorola/morrison" name="CyanogenMod/android_device_motorola_morrison" />
   <project path="device/motorola/motus" name="CyanogenMod/android_device_motorola_motus" />
   <project path="device/motorola/olympus" name="CyanogenMod/android_device_motorola_olympus" />
@@ -335,7 +335,7 @@
   <project path="system/vold" name="CyanogenMod/android_system_vold" />
   <project path="system/wlan/ti" name="CyanogenMod/android_system_wlan_ti" />
 
-  <project path="vendor/cyanogen" name="Quarx2k/android_vendor_cyanogen" />
+  <project path="vendor/cyanogen" name="CyanogenMod/android_vendor_cyanogen" />
   <project path="vendor/motorola" name="Quarx2k/proprietary_vendor_motorola" />
 
   <project path="vendor/qcom/opensource/webkit" name="CyanogenMod/android_vendor_qcom_opensource_webkit" />
