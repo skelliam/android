@@ -334,7 +334,8 @@
   <project path="system/vold" name="CyanogenMod/android_system_vold" />
   <project path="system/wlan/ti" name="CyanogenMod/android_system_wlan_ti" />
 
-  <project path="vendor/cyanogen" name="CyanogenDefy/android_vendor_cyanogen" />
+  <project path="device/motorola/kobe" name="CyanogenKobe/android_device_motorola_kobe" />
+  <project path="vendor/cyanogen" name="Quarx2k/android_vendor_cyanogen" />
   <project path="vendor/motorola" name="Quarx2k/proprietary_vendor_motorola" />
 
   <project path="vendor/qcom/opensource/webkit" name="CyanogenMod/android_vendor_qcom_opensource_webkit" />
