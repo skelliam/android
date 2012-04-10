@@ -248,7 +248,6 @@
   <project path="packages/wallpapers/LivePicker" name="CyanogenMod/android_packages_wallpapers_LivePicker" />
   <project path="packages/wallpapers/MagicSmoke" name="CyanogenMod/android_packages_wallpapers_MagicSmoke" />
   <project path="packages/wallpapers/MusicVisualization" name="CyanogenMod/android_packages_wallpapers_MusicVisualization" />
-  <project path="vendor/cm" name="CyanogenDefy/android_vendor_cm" />
   <project path="prebuilt" name="CyanogenMod/android_prebuilt" />
   <project path="packages/wallpapers/NoiseField" name="platform/packages/wallpapers/NoiseField" remote="aosp" revision="refs/tags/android-4.0.4_r1.1" />
   <project path="packages/wallpapers/PhaseBeam" name="platform/packages/wallpapers/PhaseBeam" remote="aosp" revision="refs/tags/android-4.0.4_r1.1" />
@@ -263,9 +262,10 @@
   <project path="system/su" name="CyanogenMod/android_system_su" />
   <project path="system/vold" name="CyanogenMod/android_system_vold" />
 
-
   <project path="device/motorola/jordan" name="Quarx2k/android_device_motorola_jordan" remote="github" revision="ics" />
+  <project path="device/moto/kobe" name="CyanogenKobe/android_device_moto_mb520" remote="github" revision="ics" />
   <project path="external/bootmenu" name="tpruvot/android_external_bootmenu" remote="github" revision="ics" />
+  <project path="vendor/cm" name="Quarx2k/android_vendor_cm" />
   <project path="vendor/motorola" name="Quarx2k/proprietary_vendor_motorola" remote="github" revision="ics" />
   <project path="packages/apps/Usb" name="CyanogenDefy/android_packages_apps_Usb" remote="github" revision="ics" />
   <project path="device/motorola/common" name= "MotoMagic/android_device_moto_hijack" />
