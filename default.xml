@@ -267,6 +267,7 @@
   <project path="system/vold" name="CyanogenMod/android_system_vold" />
 
   <project path="device/allwinner/a10" name="Quarx2k/android_device_a10" revision="master" />
+  <project path="external/cedarx" name="Quarx2k/android_external_cedarx.git" revision="master" />
   <project path="vendor/cm" name="Quarx2k/android_vendor_cm" />
   <project path="android" name="Quarx2k/android" revision="allwinner" />
 
