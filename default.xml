@@ -203,8 +203,6 @@
   <project path="packages/apps/DSPManager" name="CyanogenMod/android_packages_apps_DSPManager" />
   <project path="packages/apps/Email" name="CyanogenMod/android_packages_apps_Email" />
   <project path="packages/apps/Exchange" name="platform/packages/apps/Exchange" remote="aosp" revision="refs/tags/android-4.0.4_r1.2" />
-  <project path="packages/apps/Gallery" name="CyanogenMod/android_packages_apps_Gallery" />
-  <project path="packages/apps/Gallery2" name="platform/packages/apps/Gallery2" remote="aosp" revision="refs/tags/android-4.0.4_r1.2" />
   <project path="packages/apps/HTMLViewer" name="CyanogenMod/android_packages_apps_HTMLViewer" />
   <project path="packages/apps/KeyChain" name="platform/packages/apps/KeyChain" remote="aosp" revision="refs/tags/android-4.0.4_r1.2" />
   <project path="packages/apps/Mms" name="CyanogenMod/android_packages_apps_Mms" />
@@ -266,6 +264,7 @@
   <project path="system/su" name="CyanogenMod/android_system_su" />
   <project path="system/vold" name="Quarx2k/android_system_vold" />
 
+  <project path="packages/apps/Gallery2" name="Quarx2k/packages/apps/Gallery2" />
   <project path="hardware/realtek" name="allwinner-dev-team/android_hardware_realtek" />
   <project path="device/allwinner/a10" name="Quarx2k/android_device_a10" revision="master" />
   <project path="external/cedarx" name="Quarx2k/android_external_cedarx.git" revision="master" />
