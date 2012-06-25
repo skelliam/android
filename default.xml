@@ -285,6 +285,7 @@
   <project path="vendor/motorola" name="Quarx2k/proprietary_vendor_motorola" remote="github" revision="ics" />
   
   <project path="vendor/cm" name="Quarx2k/android_vendor_cm" />
+  <project path="system/wlan/ti" name="tpruvot/android_system_wlan_ti" revision="gingerbread" />
 
   <project path="external/bootmenu" name="tpruvot/android_external_bootmenu" remote="github" revision="ics" />
   <project path="external/DroidSSHd" name="tpruvot/android_external_droidsshd" />
