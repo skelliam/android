@@ -4,6 +4,9 @@
   <remote  name="aosp"
            fetch="https://android.googlesource.com/" />
 
+  <remote  name="linaro"
+           fetch="http://android.git.linaro.org/" />
+
   <remote  name="github"
            fetch="http://github.com/"
            review="review.cyanogenmod.com" />
@@ -185,7 +188,7 @@
   <project path="hardware/ti/omap3" name="CyanogenMod/android_hardware_ti_omap3" />
   <project path="hardware/ti/omap4xxx" name="platform/hardware/ti/omap4xxx" remote="aosp" revision="refs/tags/android-4.0.4_r2.1" />
   <project path="hardware/ti/wlan" name="CyanogenMod/android_hardware_ti_wlan" />
-  <project path="libcore" name="CyanogenMod/android_libcore" />
+  <project path="libcore" name="platform/libcore" remote="linaro" revision="refs/heads/linaro_android_4.0.4" />
   <project path="ndk" name="CyanogenMod/android_ndk" />
   <project path="packages/apps/Apollo" name="CyanogenMod/android_packages_apps_Apollo" />
   <project path="packages/apps/BasicSmsReceiver" name="platform/packages/apps/BasicSmsReceiver" remote="aosp" revision="refs/tags/android-4.0.4_r2.1" />
