@@ -49,7 +49,7 @@
   <project path="external/busybox" name="CyanogenMod/android_external_busybox" remote="github" revision="ics" />
   <project path="external/bzip2" name="CyanogenMod/android_external_bzip2" />
   <project path="external/chromium" name="CyanogenMod/android_external_chromium" />
-  <project path="external/clang" name="CyanogenMod/android_external_clang" />
+  <project path="external/clang" name="platform/external/clang" remote="aosp" revision="refs/tags/android-4.0.4_r2.1" />
   <project path="external/collada" name="platform/external/collada" remote="aosp" revision="refs/tags/android-4.0.4_r2.1" />
   <project path="external/dbus" name="CyanogenMod/android_external_dbus" />
   <project path="external/dhcpcd" name="CyanogenMod/android_external_dhcpcd" />
@@ -159,9 +159,9 @@
   <project path="external/yaffs2" name="CyanogenMod/android_external_yaffs2" />
   <project path="external/zlib" name="CyanogenMod/android_external_zlib" />
   <project path="frameworks/base" name="Quarx2k/android_frameworks_base" remote="github" revision="allwinner" />
-  <project path="frameworks/compile/libbcc" name="CyanogenMod/android_frameworks_compile_libbcc" />
+  <project path="frameworks/compile/libbcc" name="platform/frameworks/compile/libbcc" remote="aosp" revision="refs/tags/android-4.0.4_r2.1" />
   <project path="frameworks/compile/linkloader" name="platform/frameworks/compile/linkloader" remote="aosp" revision="refs/tags/android-4.0.4_r2.1" />
-  <project path="frameworks/compile/slang" name="CyanogenMod/android_frameworks_compile_slang" />
+  <project path="frameworks/compile/slang" name="platform/frameworks/compile/slang" remote="aosp" revision="refs/tags/android-4.0.4_r2.1" />
   <project path="frameworks/ex" name="CyanogenMod/android_frameworks_ex" />
   <project path="frameworks/media/libvideoeditor" name="platform/frameworks/media/libvideoeditor" remote="aosp" revision="refs/tags/android-4.0.4_r2.1" />
   <project path="frameworks/opt/calendar" name="platform/frameworks/opt/calendar" remote="aosp" revision="refs/tags/android-4.0.4_r2.1" />
