@@ -5,7 +5,7 @@
            fetch="https://android.googlesource.com/" />
 
   <remote  name="linaro"
-           fetch="http://android.git.linaro.org/" />
+           fetch="git://android.git.linaro.org" />
 
   <remote  name="github"
            fetch="http://github.com/"
