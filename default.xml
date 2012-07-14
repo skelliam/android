@@ -156,7 +156,7 @@
   <project path="external/vim" name="CyanogenMod/android_external_vim" revision="master" />
   <project path="external/yaffs2" name="CyanogenMod/android_external_yaffs2" />
   <project path="external/zlib" name="CyanogenMod/android_external_zlib" />
-  <project path="frameworks/base" name="Quarx2k/android_frameworks_base" remote="github" revision="ics_flyiq285" />
+  <project path="frameworks/base" name="Quarx2k/android_frameworks_base" remote="github" revision="ics_flyi285" />
   <project path="frameworks/compile/libbcc" name="CyanogenMod/android_frameworks_compile_libbcc" />
   <project path="frameworks/compile/linkloader" name="platform/frameworks/compile/linkloader" remote="aosp" revision="refs/tags/android-4.0.4_r2.1" />
   <project path="frameworks/compile/slang" name="CyanogenMod/android_frameworks_compile_slang" />
@@ -263,6 +263,7 @@
 
   <project path="packages/apps/FileManager" name="CyanogenMod/android_packages_apps_FileManager" revision="gingerbread" />
   <project path="device/fly/iq285" name="Quarx2k/android_device_fly_iq285" remote="github" revision="ics" />
+  <project path="vendor/cm" name="Quarx2k/android_vendor_cm" remote="github" revision="ics" />
   <project path="android" name="CyanogenMod/android" />
 
 </manifest>
