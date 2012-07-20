@@ -184,7 +184,7 @@
   <project path="external/webkit" name="CyanogenMod/android_external_webkit" />
   <project path="external/webp" name="CyanogenMod/android_external_webp" />
   <project path="external/webrtc" name="CyanogenMod/android_external_webrtc" />
-  <project path="external/wpa_supplicant_6" name="tpruvot/android_external_wpa_supplicant_6" remote="github" revision="ics" />
+  <project path="external/wpa_supplicant_6" name="CyanogenMod/android_external_wpa_supplicant_6"  />
   <project path="external/wpa_supplicant_8" name="CyanogenMod/android_external_wpa_supplicant_8" />
   <project path="external/xmlwriter" name="CyanogenMod/android_external_xmlwriter" />
   <project path="external/yaffs2" name="CyanogenMod/android_external_yaffs2" />
@@ -219,10 +219,10 @@
   <project path="hardware/qcom/display" name="CyanogenMod/android_hardware_qcom_display" />
   <project path="hardware/qcom/gps" name="CyanogenMod/android_hardware_qcom_gps" />
   <project path="hardware/qcom/media" name="CyanogenMod/android_hardware_qcom_media" />
-  <project path="hardware/ril" name="Quarx2k/android_hardware_ril" />
+  <project path="hardware/ril" name="nadlabak/android_hardware_ril" />
   <project path="hardware/ti/omap3" name="Quarx2k/android_hardware_ti_omap3-compat" />
   <project path="hardware/ti/omap4xxx" name="CyanogenMod/android_hardware_ti_omap4xxx" />
-  <project path="hardware/ti/wlan" name="CyanogenDefy/android_hardware_ti_wlan" remote="github" revision="ics" />
+  <project path="hardware/ti/wlan" name="CyanogenMod/android_hardware_ti_wlan"  />
   <project path="hardware/ti/wpan" name="CyanogenMod/android_hardware_ti_wpan" />
   <project path="libcore" name="CyanogenMod/android_libcore" />
   <project path="libnativehelper" name="CyanogenMod/android_libnativehelper" />
@@ -312,7 +312,7 @@
   <project path="prebuilts/tools" name="CyanogenMod/android_prebuilts_tools" />
   <project path="sdk" name="CyanogenMod/android_sdk" />
   <project path="system/bluetooth" name="CyanogenMod/android_system_bluetooth" />
-  <project path="system/core" name="CyanogenMod/android_system_core" />
+  <project path="system/core" name="nadlabak/android_system_core" />
   <project path="system/extras" name="CyanogenMod/android_system_extras" />
   <project path="system/media" name="CyanogenMod/android_system_media" />
   <project path="system/netd" name="CyanogenMod/android_system_netd" />
@@ -328,8 +328,8 @@
   <project path="device/motorola/jordan_plus" name="Quarx2k/android_device_moto_mb526" remote="github" revision="jellybean" />
   <project path="device/moto/kobe" name="CyanogenKobe/android_device_moto_mb520" remote="github" revision="jellybean" />
   <project path="external/bootmenu" name="tpruvot/android_external_bootmenu" remote="github" revision="ics" />
-  <project path="system/wlan/ti" name="tpruvot/android_system_wlan_ti" revision="gingerbread" />
+ <!-- <project path="system/wlan/ti" name="tpruvot/android_system_wlan_ti" revision="gingerbread" /> --->
   <project path="external/hostapd" name="tpruvot/android_external_hostapd" remote="github" revision="ics" />
-  <project path="packages/apps/HwaSettings" name="tpruvot/HwaSettings" revision="master" />
+  <project path="packages/apps/HwaSettings" name="royale1223/HwaSettings" revision="master" />
 
 </manifest>
