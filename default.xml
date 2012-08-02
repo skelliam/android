@@ -333,5 +333,6 @@
   <project path="external/hostapd" name="tpruvot/android_external_hostapd" remote="github" revision="ics" />
   <project path="packages/apps/HwaSettings" name="royale1223/HwaSettings" revision="master" />
   <project path="packages/apps/RomUpdater" name="CyanogenDefy/RomUpdater" />
+  <project path="packages/apps/FileManager" name="CyanogenMod/android_packages_apps_FileManager" revision="gingerbread" />
 
 </manifest>
