@@ -315,7 +315,7 @@
   <project path="packages/wallpapers/MagicSmoke" name="CyanogenMod/android_packages_wallpapers_MagicSmoke" />
   <project path="packages/wallpapers/MusicVisualization" name="CyanogenMod/android_packages_wallpapers_MusicVisualization" />
 
-  <project path="prebuilt" name="CyanogenMod/android_prebuilt" remote="github-https" />
+  <project path="prebuilt" name="platform/prebuilt" remote="aosp" revision="gingerbread" />
   <project path="sdk" name="CyanogenMod/android_sdk" revision="tools_r7" />
 
   <project path="system/bluetooth" name="CyanogenMod/android_system_bluetooth" />
