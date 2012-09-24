@@ -325,6 +325,7 @@
   <project path="packages/apps/FileManager" name="CyanogenMod/android_packages_apps_FileManager" revision="gingerbread" />
   <project path="hardware/realtek" name="allwinner-dev-team/android_hardware_realtek" />
   <project path="device/allwinner/a10" name="Quarx2k/android_device_a10" />
+  <project path="kernel" name="Quarx2k/linux-allwinner" revision="allwinner-v3.0-android-v2" />
   <project path="external/cedarx" name="Quarx2k/android_external_cedarx.git"  />
 
 </manifest>
