@@ -342,5 +342,6 @@
   <project path="packages/apps/HwaSettings" name="royale1223/HwaSettings" revision="master" />
   <project path="packages/apps/RomUpdater" name="CyanogenDefy/RomUpdater" />
   <project path="packages/apps/FileManager" name="CyanogenMod/android_packages_apps_FileManager" revision="gingerbread" />
+  <project path="jordan-kernel" name="Quarx2k/jordan-kernel" revision="2.6.32" />
 
 </manifest>
