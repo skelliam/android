@@ -342,5 +342,6 @@
   <project path="packages/apps/RomUpdater" name="CyanogenDefy/RomUpdater" />
   <project path="packages/apps/FileManager" name="CyanogenMod/android_packages_apps_FileManager" revision="gingerbread" />
   <project path="jordan-kernel" name="Quarx2k/jordan-kernel" revision="2.6.32" />
+  <project path="system/wlan/ti" name="tpruvot/android_system_wlan_ti" revision="gingerbread" />
 
 </manifest>
