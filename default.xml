@@ -284,15 +284,9 @@
   <project path="packages/providers/TelephonyProvider" name="CyanogenMod/android_packages_providers_TelephonyProvider" />
   <project path="packages/providers/UserDictionaryProvider" name="CyanogenMod/android_packages_providers_UserDictionaryProvider" />
   <project path="packages/wallpapers/Basic" name="CyanogenMod/android_packages_wallpapers_Basic" />
-  <project path="packages/wallpapers/Galaxy4" name="CyanogenMod/android_packages_wallpapers_Galaxy4" />
-  <project path="packages/wallpapers/HoloSpiral" name="CyanogenMod/android_packages_wallpapers_HoloSpiral" />
   <project path="packages/wallpapers/LivePicker" name="CyanogenMod/android_packages_wallpapers_LivePicker" />
-  <project path="packages/wallpapers/MagicSmoke" name="CyanogenMod/android_packages_wallpapers_MagicSmoke" />
-  <project path="packages/wallpapers/MusicVisualization" name="CyanogenMod/android_packages_wallpapers_MusicVisualization" />
-  <project path="packages/wallpapers/NoiseField" name="CyanogenMod/android_packages_wallpapers_NoiseField" />
-  <project path="packages/wallpapers/PhaseBeam" name="CyanogenMod/android_packages_wallpapers_PhaseBeam" />
   <project path="pdk" name="CyanogenMod/android_pdk" />
-  <project path="prebuilt" name="platform/prebuilt" remote="aosp" revision="jb-dev" />
+  <project path="prebuilt" name="Quarx2k/prebuilt" />
   <project path="prebuilts/eclipse" name="platform/prebuilts/eclipse" remote="aosp" revision="jb-dev" />
   <project path="prebuilts/gcc/darwin-x86/arm/arm-eabi-4.6" name="CyanogenMod/android_prebuilts_gcc_darwin-x86_arm_arm-eabi-4.6" />
   <project path="prebuilts/gcc/darwin-x86/arm/arm-linux-androideabi-4.6" name="platform/prebuilts/gcc/darwin-x86/arm/arm-linux-androideabi-4.6" remote="aosp" revision="jb-dev" />
@@ -334,14 +328,12 @@
   <project path="packages/apps/Usb" name="CyanogenDefy/android_packages_apps_Usb" remote="github" revision="ics" />
   <project path="vendor/motorola" name="Quarx2k/proprietary_vendor_motorola" />
   <project path="device/moto/jordan-common" name="Quarx2k/android_device_moto_jordan-common" revision="jb_2ndboot" />
-  <project path="device/moto/mb525" name="Quarx2k/android_device_motorola_jordan" />
   <project path="device/moto/mb526" name="Quarx2k/android_device_moto_mb526"  />
   <project path="device/moto/mb520" name="CyanogenKobe/android_device_moto_mb520"/>
   <project path="packages/apps/DroidSSHd" name="tpruvot/android_external_droidsshd" />
   <project path="external/bootmenu" name="Quarx2k/android_external_bootmenu" />
   <project path="external/hostapd" name="tpruvot/android_external_hostapd" remote="github" revision="ics" />
   <project path="packages/apps/HwaSettings" name="royale1223/HwaSettings" revision="master" />
-  <project path="packages/apps/RomUpdater" name="CyanogenDefy/RomUpdater" />
   <project path="jordan-kernel" name="Quarx2k/jordan-kernel" revision="2.6.32" />
   <project path="system/wlan/ti" name="tpruvot/android_system_wlan_ti" revision="gingerbread" />
 
