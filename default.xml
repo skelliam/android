@@ -336,5 +336,6 @@
   <project path="packages/apps/HwaSettings" name="royale1223/HwaSettings" revision="master" />
   <project path="jordan-kernel" name="Quarx2k/jordan-kernel" revision="2.6.32" />
   <project path="system/wlan/ti" name="tpruvot/android_system_wlan_ti" revision="gingerbread" />
+  <project path="prebuilts/gcc/linux-x86/arm/android-toolchain-eabi-linaro-4.7" name="Quarx2k/android-toolchain-eabi-linaro-4.7" revision="4.7-2012.10" />
 
 </manifest>
