@@ -4,6 +4,7 @@
   <!-- CM removals -->
   <remove-project name="CyanogenMod/android_frameworks_av" />
   <remove-project name="CyanogenMod/android_frameworks_base" />
+  <remove-project name="CyanogenMod/android_frameworks_native" />
   <remove-project name="CyanogenMod/android_hardware_libhardware_legacy" />
   <remove-project name="CyanogenMod/android_hardware_ril" />
   <remove-project name="CyanogenMod/android_system_core" />
@@ -14,6 +15,7 @@
 
   <project path="frameworks/av" name="Quarx2k/android_frameworks_av" />
   <project path="frameworks/base" name="Quarx2k/android_frameworks_base" />
+  <project path="frameworks/native" name="Quarx2k/android_frameworks_native" />
   <project path="hardware/ril" name="Quarx2k/android_hardware_ril" />
   <project path="hardware/ti/omap3" name="CyanogenDefy/android_hardware_ti_omap3-compat" revision="jellybean"/>
   <project path="bootable/recovery" name="tpruvot/android_bootable_recovery" revision="jellybean" />
