@@ -18,7 +18,7 @@
   <project path="frameworks/native" name="Quarx2k/android_frameworks_native" />
   <project path="hardware/ril" name="Quarx2k/android_hardware_ril" />
   <project path="hardware/ti/omap3" name="CyanogenDefy/android_hardware_ti_omap3-compat" revision="jellybean"/>
-  <project path="bootable/recovery" name="tpruvot/android_bootable_recovery" revision="jellybean" />
+  <project path="bootable/recovery" name="Quarx2k/android_bootable_recovery" revision="jb4.2-defy" />
   <project path="packages/apps/MotoFM" name="maniac103/android_packages_apps_MotoFM" revision="jellybean" />
   <project path="packages/apps/MotoFMService" name="maniac103/android_packages_apps_MotoFMService" revision="gingerbread" />
   <project path="packages/apps/Usb" name="CyanogenDefy/android_packages_apps_Usb" revision="ics" />
