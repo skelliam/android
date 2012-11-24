@@ -33,5 +33,5 @@
   <project path="system/wlan/ti" name="tpruvot/android_system_wlan_ti" revision="gingerbread" />
   <project path="vendor/cm" name="Quarx2k/android_vendor_cm" />
   <project path="hardware/libhardware_legacy" name="Quarx2k/android_hardware_libhardware_legacy" />
-
+  <project path="system/core" name="Quarx2k/android_system_core" />
 </manifest>
