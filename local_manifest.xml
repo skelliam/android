@@ -13,6 +13,7 @@
   <remove-project name="CyanogenMod/android_vendor_cm" />
   <remove-project name="CyanogenMod/android_frameworks_opt_telephony" />
   <remove-project name="CyanogenMod/android_system_vold" />
+  <remove-project name="CyanogenMod/android_packages_apps_Settings" />
 
   <project path="frameworks/av" name="Quarx2k/android_frameworks_av" />
   <project path="frameworks/base" name="Quarx2k/android_frameworks_base" />
@@ -37,4 +38,5 @@
   <project path="system/core" name="Quarx2k/android_system_core" />
   <project path="frameworks/opt/telephony" name="Quarx2k/android_frameworks_opt_telephony" />
   <project path="system/vold" name="Quarx2k/android_system_vold" />
+  <project path="packages/apps/Settings" name="CyanogenMod/android_packages_apps_Settings" />
 </manifest>
