@@ -31,18 +31,10 @@
   <project path="kernel/motorola/omap4_xt912" name="STS-Dev-Team/kernel_omap4_xt912" revision="master" />
   <project path="kernel/motorola/mapphone" name="STS-Dev-Team/kernel_mapphone_kexec" revision="3.0.31" />
 
-  <project path="device/motorola/common" name="STS-Dev-Team/android_device_motorola_common" />
-  <project path="device/motorola/solana" name="STS-Dev-Team/android_device_motorola_solana" />
-  <project path="device/motorola/targa" name="STS-Dev-Team/android_device_motorola_targa" />
-  <project path="device/motorola/spyder" name="STS-Dev-Team/android_device_motorola_spyder" />
-  <project path="device/motorola/maserati" name="STS-Dev-Team/android_device_motorola_maserati" />
-  <project path="device/motorola/umts_spyder" name="STS-Dev-Team/android_device_motorola_umts_spyder" />
+  <project path="device/motorola/common" name="Quarx2k/android_device_omap4_motorola_common" />
+  <project path="device/motorola/umts_spyder" name="Quarx2k/android_device_motorola_umts_spyder" />
 
   <project path="vendor/motorola/common" name="STS-Dev-Team/android_vendor_motorola_common" />
-  <project path="vendor/motorola/solana" name="STS-Dev-Team/android_vendor_motorola_solana" revision="master" />
-  <project path="vendor/motorola/targa" name="STS-Dev-Team/android_vendor_motorola_targa" revision="master" />
-  <project path="vendor/motorola/spyder" name="STS-Dev-Team/android_vendor_motorola_spyder" revision="master" />
-  <project path="vendor/motorola/maserati" name="STS-Dev-Team/android_vendor_motorola_maserati" revision="master" />
   <project path="vendor/motorola/umts_spyder" name="STS-Dev-Team/android_vendor_motorola_umts_spyder" revision="master" />
 
   </manifest>
