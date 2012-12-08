@@ -14,8 +14,8 @@
   <remove-project name="CyanogenMod/android_system_netd" />
 
   <!-- CM replacements -->
-  <project path="frameworks/av" name="STS-Dev-Team/android_frameworks_av" />
-  <project path="frameworks/base" name="STS-Dev-Team/android_frameworks_base" />
+  <project path="frameworks/av" name="Quarx2k/android_frameworks_av" />
+  <project path="frameworks/base" name="Quarx2k/android_frameworks_base" />
   <project path="external/wpa_supplicant_8" name="STS-Dev-Team/android_external_wpa_supplicant_8" />
   <project path="hardware/libhardware_legacy" name="STS-Dev-Team/android_hardware_libhardware_legacy" />
   <project path="hardware/ti/omap4xxx" name="STS-Dev-Team/android_hardware_ti_omap4xxx" />
