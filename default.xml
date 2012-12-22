@@ -186,7 +186,7 @@
   <project path="external/webkit" name="CyanogenMod/android_external_webkit" />
   <project path="external/webp" name="CyanogenMod/android_external_webp" />
   <project path="external/webrtc" name="CyanogenMod/android_external_webrtc" />
-  <project path="external/wpa_supplicant_6" name="Quarx2k/android_external_wpa_supplicant_6"  />
+  <project path="external/wpa_supplicant_6" name="skelliam/android_external_wpa_supplicant_6" remote="github" revision="jellybean-stable"  />
   <project path="external/wpa_supplicant_8" name="CyanogenMod/android_external_wpa_supplicant_8" />
   <project path="external/xmlwriter" name="CyanogenMod/android_external_xmlwriter" />
   <project path="external/yaffs2" name="tpruvot/android_external_yaffs2" />
@@ -336,6 +336,6 @@
   <project path="packages/apps/HwaSettings" name="royale1223/HwaSettings" revision="master" />
   <project path="jordan-kernel" name="Quarx2k/jordan-kernel" revision="2.6.32" />
   <project path="system/wlan/ti" name="tpruvot/android_system_wlan_ti" revision="gingerbread" />
-  <project path="prebuilts/gcc/linux-x86/arm/android-toolchain-eabi-linaro-4.7" name="skelliam/android-toolchain-eabi-linaro-4.7" revision="4.7-2012.11" />
+  <project path="prebuilts/gcc/linux-x86/arm/android-toolchain-eabi-linaro-4.7" name="skelliam/android-toolchain-eabi-linaro-4.7" revision="4.7-2012.12" />
 
 </manifest>
