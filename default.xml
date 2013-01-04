@@ -193,7 +193,7 @@
   <project path="external/zlib" name="CyanogenMod/android_external_zlib" />
   <project path="external/zxing" name="CyanogenMod/android_external_zxing" />
   <project path="frameworks/av" name="Quarx2k/android_frameworks_av" remote="github" />
-  <project path="frameworks/base" name="Quarx2k/android_frameworks_base" remote="github" />
+  <project path="frameworks/base" name="skelliam/android_frameworks_base" remote="github" />
   <project path="frameworks/compile/libbcc" name="CyanogenMod/android_frameworks_compile_libbcc" />
   <project path="frameworks/compile/linkloader" name="CyanogenMod/android_frameworks_compile_linkloader" />
   <project path="frameworks/compile/mclinker" name="CyanogenMod/android_frameworks_compile_mclinker" />
