@@ -11,6 +11,9 @@
   <remote  name="private"
            fetch="ssh://git@github.com" />
 
+  <remote  name="omapzoom"
+           fetch="git://git.omapzoom.org/" />
+
   <default revision="refs/heads/jellybean"
            remote="github"
            sync-c="true"
