@@ -111,6 +111,7 @@
   <project path="external/jsilver" name="CyanogenMod/android_external_jsilver" />
   <project path="external/jsr305" name="CyanogenMod/android_external_jsr305" />
   <project path="external/junit" name="CyanogenMod/android_external_junit" />
+  <project path="external/kexec-tools" name="mkasick/external_kexec-tools" revision="ics" />
   <project path="external/kernel-headers" name="CyanogenMod/android_external_kernel-headers" />
   <project path="external/libffi" name="CyanogenMod/android_external_libffi" />
   <project path="external/libgsm" name="CyanogenMod/android_external_libgsm" />
