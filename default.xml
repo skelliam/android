@@ -340,7 +340,7 @@
   <project path="packages/apps/HwaSettings" name="royale1223/HwaSettings" revision="master" />
   <project path="jordan-kernel" name="Quarx2k/jordan-kernel" revision="2.6.32" />
   <project path="system/wlan/ti" name="tpruvot/android_system_wlan_ti" revision="gingerbread" />
-  <project path="prebuilts/gcc/linux-x86/arm/android-toolchain-eabi-linaro-4.7" name="skelliam/android-toolchain-eabi-linaro-4.7" revision="4.7-2013.01" />
+  <project path="prebuilts/gcc/linux-x86/arm/android-toolchain-eabi-linaro-4.7" name="skelliam/android-toolchain-eabi-linaro-4.7" revision="4.7-2013.02" />
   <project path="prebuilts/gcc/linux-x86/arm/android-toolchain-eabi-linaro-4.6.2" name="skelliam/android_prebuilt_linux-x86_toolchain_linaro-4.6" revision="master" />
 
 </manifest>
