@@ -15,7 +15,7 @@
   <remove-project name="CyanogenMod/android_hardware_ti_omap3" />
   <remove-project name="CyanogenMod/android_bootable_recovery" /> 
   <remove-project name="CyanogenMod/android_frameworks_opt_telephony" />
-  <!--  <remove-project name="CyanogenMod/android_packages_apps_Settings" />   -->
+  <remove-project name="CyanogenMod/android_packages_apps_Settings" />
   <remove-project name="CyanogenMod/android_hardware_ti_wlan"/>
 
   <project path="bionic" name="Quarx2k/android_bionic"  />
@@ -37,7 +37,7 @@
   <project path="hardware/libhardware_legacy" name="Quarx2k/android_hardware_libhardware_legacy" />
   <project path="system/core" name="Quarx2k/android_system_core"  />
   <project path="frameworks/opt/telephony" name="Quarx2k/android_frameworks_opt_telephony"  />
-  <!-- <project path="packages/apps/Settings" name="Quarx2k/android_packages_apps_Settings" /> -->
+  <project path="packages/apps/Settings" name="Quarx2k/android_packages_apps_Settings" />
   <project path="hardware/ti/wlan" name="Quarx2k/android_hardware_ti_wlan" revision="cm-11.0"   />
 
 </manifest>
