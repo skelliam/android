@@ -42,7 +42,7 @@
   <project path="frameworks/opt/telephony" name="Quarx2k/android_frameworks_opt_telephony"  />
   <project path="packages/apps/Settings" name="Quarx2k/android_packages_apps_Settings" />
   <project path="hardware/ti/wlan" name="Quarx2k/android_hardware_ti_wlan" revision="cm-11.0"   />
-  <project path="external/wpa_supplicant_8_ti" name="ariknem/hostap" revision="android4.4_ti" />
+  <project path="external/wpa_supplicant_8_ti" name="CyanogenMod/android_external_wpa_supplicant_8_ti"/>
   <project path="vendor/cm" name="Quarx2k/android_vendor_cm" />
   <project path="system/netd" name="Quarx2k/android_system_netd" />
 </manifest>
