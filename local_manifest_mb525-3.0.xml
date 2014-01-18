@@ -15,6 +15,8 @@
   <remove-project name="CyanogenMod/android_frameworks_opt_telephony" />
   <remove-project name="CyanogenMod/android_packages_apps_Settings" />
   <remove-project name="CyanogenMod/android_vendor_cm"/>
+  <remove-project name="CyanogenMod/android_packages_apps_Dialer"/>
+  <remove-project name="CyanogenMod/android_packages_apps_InCallUI"/>
 
   <project path="bionic" name="Quarx2k/android_bionic"  />
   <project path="build" name="Quarx2k/android_build" />
@@ -33,4 +35,6 @@
   <project path="packages/apps/Settings" name="Quarx2k/android_packages_apps_Settings" />
   <project path="bootable/recovery" name="TeamWin/Team-Win-Recovery-Project" revision="twrp2.7" />
   <project path="vendor/cm" name="Quarx2k/android_vendor_cm" />s
+  <project path="packages/apps/Dialer" name="Quarx2k/android_packages_apps_Dialer" />
+  <project path="packages/apps/InCallUI" name="Quarx2k/android_packages_apps_InCallUI" />
 </manifest>
