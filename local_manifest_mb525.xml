@@ -23,6 +23,7 @@
   <remove-project name="CyanogenMod/android_external_qemu"/>
   <remove-project name="CyanogenMod/android_external_qemu-pc-bios"/>
   <remove-project name="CyanogenMod/android_packages_apps_VideoEditor"/>
+  <remove-project name="CyanogenMod/android_packages_apps_InCallUI"/>
 
   <project path="bionic" name="Quarx2k/android_bionic"  />
   <project path="build" name="Quarx2k/android_build" />
@@ -47,4 +48,6 @@
   <project path="hardware/ti/wlan" name="Quarx2k/android_hardware_ti_wlan" revision="cm-11.0"   />
   <project path="vendor/cm" name="Quarx2k/android_vendor_cm" />
   <project path="packages/services/Telephony" name="Quarx2k/android_packages_services_Telephony" />
+  <project path="packages/apps/InCallUI" name="Quarx2k/android_packages_apps_InCallUI" />
+
 </manifest>
