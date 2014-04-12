@@ -16,7 +16,6 @@
   <remove-project name="CyanogenMod/android_packages_apps_Settings" />
   <remove-project name="CyanogenMod/android_vendor_cm"/>
   <remove-project name="CyanogenMod/android_packages_services_Telephony"/>
-  <remove-project name="CyanogenMod/android_packages_apps_QuickSearchBox"/>
   <remove-project name="CyanogenMod/android_external_qemu"/>
   <remove-project name="CyanogenMod/android_external_qemu-pc-bios"/>
   <remove-project name="CyanogenMod/android_packages_apps_VideoEditor"/>
