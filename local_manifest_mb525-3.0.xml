@@ -38,5 +38,7 @@
   <project path="vendor/cm" name="Quarx2k/android_vendor_cm" /> 
   <project path="packages/services/Telephony" name="Quarx2k/android_packages_services_Telephony" /> 
   <project path="packages/apps/InCallUI" name="Quarx2k/android_packages_apps_InCallUI" /> 
+  <project path="packages/apps/MotoFM" name="Quarx2k/android_packages_apps_MotoFM" revision="jellybean"  /> 
+  <project path="packages/apps/MotoFMService" name="maniac103/android_packages_apps_MotoFMService" revision="gingerbread"  />
 
 </manifest>
