@@ -21,6 +21,7 @@
   <remove-project name="CyanogenMod/android_packages_apps_InCallUI"/> 
   <remove-project name="CyanogenMod/android_art"/> 
   <remove-project name="CyanogenMod/android_frameworks_rs"/> 
+  <remove-project name="CyanogenMod/android_hardware_libhardware_legacy" />
 
   <project path="bionic" name="Quarx2k/android_bionic"  />
   <project path="build" name="Quarx2k/android_build" />
@@ -40,10 +41,11 @@
   <project path="vendor/cm" name="Quarx2k/android_vendor_cm" /> 
   <project path="packages/services/Telephony" name="Quarx2k/android_packages_services_Telephony" /> 
   <project path="packages/apps/InCallUI" name="Quarx2k/android_packages_apps_InCallUI" /> 
-  <project path="packages/apps/MotoFM" name="Quarx2k/android_packages_apps_MotoFM" revision="jellybean"  /> 
+  <project path="packages/apps/MotoFM" name="maniac103/android_packages_apps_MotoFM" revision="jellybean"  /> 
   <project path="packages/apps/MotoFMService" name="maniac103/android_packages_apps_MotoFMService" revision="gingerbread"  />
   <project path="frameworks/rs" name="Quarx2k/android_frameworks_rs" groups="pdk" />
   <project path="art" name="Quarx2k/android_art" />
+  <project path="hardware/libhardware_legacy" name="Quarx2k/android_hardware_libhardware_legacy" />
 
   <project path="prebuilts/gcc/linux-x86/arm/arm-eabi-4.8" name="JustArchi/linaro.git"  remote="github" revision="4.8-eabi" />
   <project path="prebuilts/gcc/linux-x86/arm/arm-linux-androideabi-4.8" name="JustArchi/linaro.git" remote="github" revision="4.8-androideabi" />
