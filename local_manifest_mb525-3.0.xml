@@ -22,6 +22,7 @@
   <remove-project name="CyanogenMod/android_art"/> 
   <remove-project name="CyanogenMod/android_frameworks_rs"/> 
   <remove-project name="CyanogenMod/android_hardware_libhardware_legacy" />
+  <remove-project name="CyanogenMod/android_hardware_ti_omap3" />
 
   <project path="bionic" name="Quarx2k/android_bionic"  />
   <project path="build" name="Quarx2k/android_build" />
@@ -46,7 +47,7 @@
   <project path="frameworks/rs" name="Quarx2k/android_frameworks_rs" groups="pdk" />
   <project path="art" name="Quarx2k/android_art" />
   <project path="hardware/libhardware_legacy" name="Quarx2k/android_hardware_libhardware_legacy" />
-
+  <project path="hardware/ti/omap3" name="Quarx2k/android_hardware_ti_omap3" />
   <project path="prebuilts/gcc/linux-x86/arm/arm-eabi-4.8" name="JustArchi/linaro.git"  remote="github" revision="4.8-eabi" />
   <project path="prebuilts/gcc/linux-x86/arm/arm-linux-androideabi-4.8" name="JustArchi/linaro.git" remote="github" revision="4.8-androideabi" />
 </manifest>
