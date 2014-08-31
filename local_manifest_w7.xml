@@ -2,6 +2,7 @@
 <manifest>
   <!-- CM removals -->
   <remove-project name="CyanogenMod/android_frameworks_av" />
+  <remove-project name="CyanogenMod/android_build" />
 
   <project name="CyanogenMod/android_hardware_qcom_fm" path="hardware/qcom/fm" remote="github" />
   <project name="CyanogenMod/android_hardware_qcom_display-caf-new" path="hardware/qcom/display-caf-new" remote="github" />
@@ -11,5 +12,6 @@
   <project name="Quarx2k/android_kernel_lge_msm8226" path="kernel/lge/msm8226" remote="github" />
   <project name="Quarx2k/android_frameworks_av"  path="frameworks/av"/>
   <project name="Quarx2k/proprietary_vendor_lge"  path="vendor/lge"/>
+  <project path="build" name="Quarx2k/android_build"  revision="cm-11.0-new"/>
 
 </manifest>
